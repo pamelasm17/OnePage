@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-right: 15%;
+}
+#intro {
+    background-color: #B9BAE6;
+    padding: 10px;
+}
+#intro p img {
+    float: left;
+    padding-right: 10px;
+}
+
+
+
+#concepto {
+    background-color: #C1D6FF;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#concepto {
+    background-color: #BCD8FF;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#concepto h2 img {
+    float: right;
+    padding-left: 10px;
+}
+#caracteristicas h2 img {
+    float: left;
+    padding-right: 20px;
+}
+
+
+#características {
+    background-color: #C9D6FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#caracteristicas {
+    background-color: #F5DEFF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+#tipos {
+    background-color: #E4D0E0;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#reseña {
+    background-color: #FFFAE2;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+#ej {
+    background-color: #FFEEE1;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#reseña h2 img {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 60px;
+}
+#reseña h4 img {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+#menu {
+    background-color: #CAC6C6;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+#banner {
+    background-image: url(../images/banner.jpg);
+    position: fixed;
+}
+#banner {
+    background-image: url(../images/banner.jpg);
+    position: fixed;
+}
+#banner {
+    background-image: url(../images/banner2.png);
+    position: fixed;
+}
+#banner {
+    background-image: url(../images/banner2.png);
+    position: fixed;
+}
+#banner {
+    background-image: url(../images/banner.jpg);
+    position: fixed;
+}
